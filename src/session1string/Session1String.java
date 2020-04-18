@@ -5,16 +5,12 @@
  */
 package session1string;
 
-/**
- *
- * @author madw
- */
 import java.util.StringTokenizer;
 
 /**
- *
  * @author madw
  */
+
 public class Session1String {
 
     /**
